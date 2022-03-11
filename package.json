@@ -1,0 +1,9 @@
+{
+    "name": "@ddict/scrollleft",
+    "version": "1.0.0",
+    "description": "get the currelt scrolleft",
+    "main": "index.js",
+    "repository": "git@github.com:ddict/scrollleft.git",
+    "author": "itsanope@icloud.com",
+    "license": "MIT"
+}
